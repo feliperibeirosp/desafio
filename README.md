@@ -10,7 +10,6 @@ Sua tarefa é construir a melhor solução no tempo combinado, considerando os r
 
 ## Considerações Importantes
 
-- **Não faça fork desse repositório**. Essa cópia foi criada especialmente para você.
 - Use seu tempo de forma inteligente. Uma solução simples primeiro e depois avance.
 - **Você pode utilizar bibliotecas e frameworks, não reinvente a roda.**
 - Comentários sempre são bem-vindos em métodos ou estruturas mais complexas.
